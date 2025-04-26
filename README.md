@@ -70,7 +70,7 @@ This system simulates real-world workflows with a focus on data integrity, effec
 #### 1. Clone the repository
 
 ```bash
-	git clone https://github.com/Prasanjit137/School_Vaccination.git
+	git clone https://github.com/ghosharijeet09/SCHOOL_VACCINATION_PORTAL.git
 	cd School_Vaccination
 ```
 
@@ -126,19 +126,18 @@ JWT_SECRET='Enter your JWT secret key'
 ## Screenshots
 
 #### LoginPage.png
-![App Screenshot](https://github.com/Prasanjit137/School_Vaccination/blob/e33680aaf2d6c0a0758e4a3e473bebe4429ff5b0/demo_data/images/LoginPage.png)
+![App Screenshot](https://github.com/ghosharijeet09/SCHOOL_VACCINATION_PORTAL/blob/ca0e6abf4ccbc100a11b66b767e6dace814a7666/demo_data/images/LoginPage.png)
 
 #### Dashboard.png
-![App Screenshot](https://github.com/Prasanjit137/School_Vaccination/blob/1b1c77378ab25d9e662fc45d296fed58d4c99012/demo_data/images/Dashboard.png)
+![App Screenshot](https://github.com/ghosharijeet09/SCHOOL_VACCINATION_PORTAL/blob/ca0e6abf4ccbc100a11b66b767e6dace814a7666/demo_data/images/Screenshot%202025-04-26%20at%2011.40.24%E2%80%AFPM.png)
 
 #### ManageStudents.png
-![App Screenshot](https://github.com/Prasanjit137/School_Vaccination/blob/e33680aaf2d6c0a0758e4a3e473bebe4429ff5b0/demo_data/images/ManageStudents.png)
-
+![App Screenshot](https://github.com/ghosharijeet09/SCHOOL_VACCINATION_PORTAL/blob/ca0e6abf4ccbc100a11b66b767e6dace814a7666/demo_data/images/ManageStudents.png)
 #### ManageVaccinations.png
-![App Screenshot](https://github.com/Prasanjit137/School_Vaccination/blob/e33680aaf2d6c0a0758e4a3e473bebe4429ff5b0/demo_data/images/ManageVaccinations.png)
+![App Screenshot](https://github.com/ghosharijeet09/SCHOOL_VACCINATION_PORTAL/blob/ca0e6abf4ccbc100a11b66b767e6dace814a7666/demo_data/images/ManageVaccinations.png)
 
 #### Reports.png
-![App Screenshot](https://github.com/Prasanjit137/School_Vaccination/blob/e33680aaf2d6c0a0758e4a3e473bebe4429ff5b0/demo_data/images/Reports.png)
+![App Screenshot](https://github.com/ghosharijeet09/SCHOOL_VACCINATION_PORTAL/blob/ca0e6abf4ccbc100a11b66b767e6dace814a7666/demo_data/images/Reports.png)
 
 
 
